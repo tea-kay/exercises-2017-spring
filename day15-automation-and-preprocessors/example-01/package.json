@@ -1,0 +1,15 @@
+{
+  "name": "CBPexercise",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Srb",
+  "license": "ISC",
+  "description": ""
+}
